@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning IaC and AWS services
 - 😄 Pronouns: Ela/Dela
 
-![Matrix](https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ)
+![Matrix](https://i.pinimg.com/originals/5f/1e/2a/5f1e2adedad224a43b63391d4b6929bb.gif)
 
 <div>
   <a href="https://github.com/Gabrielabit">
