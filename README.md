@@ -8,7 +8,7 @@
   <a href="https://github.com/Gabrielabit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielabit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielabit&layout=compact&langs_count=7&theme=synthwave"/>
-  <img align="center" width="180" height="180" src="https://media.tenor.com/images/6d06c43597cf0c42f2928c017cd6d97f/tenor.gif">
+  <img align="right" width="180" height="180" src="https://media.tenor.com/images/6d06c43597cf0c42f2928c017cd6d97f/tenor.gif">
 </div>
  <br>
 
