@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning IaC and AWS services
 - 😄 Pronouns: Ela/Dela
 
-![Matrix](https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ)
-
 <div>
   <a href="https://github.com/Gabrielabit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielabit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -33,3 +31,4 @@
 ![Snake animation](https://github.com/gabrielabit/gabrielabit/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+![Matrix](https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ)
