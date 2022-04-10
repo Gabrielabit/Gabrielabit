@@ -8,6 +8,8 @@
   <a href="https://github.com/Gabrielabit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielabit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielabit&layout=compact&langs_count=7&theme=synthwave"/>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ">via GIPHY</a></p>
+</div>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
