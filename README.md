@@ -18,8 +18,6 @@
   <img align="center" alt="Gabs-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
   <img align="center" alt="Gabs-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4e/2c/eb/4e2ceb4490305e9c0c3d93074de84966.jpg">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ">via GIPHY</a></p>
-</div>
   
   ## Me, Gabs in IRL
   
