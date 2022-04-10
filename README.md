@@ -34,4 +34,4 @@
 ![Snake animation](https://github.com/gabrielabit/gabrielabit/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-![Matrix](https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ)
+
