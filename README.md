@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning IaC and AWS services
 - 😄 Pronouns: Ela/Dela
 
-  <img align="center" width="148" height="180" src="https://media.tenor.com/images/6d06c43597cf0c42f2928c017cd6d97f/tenor.gif">
+  <img align="center" width="180" height="180" src="https://media.tenor.com/images/6d06c43597cf0c42f2928c017cd6d97f/tenor.gif">
 </div>
  <br>
 
