@@ -1,6 +1,6 @@
-## Eu sou a Gabs
+## I'm Gabs!
 
-- 🔭 I’m currently working on AWS Cloud
+- 🔭 I’m currently working on Cloud Computer
 - 🌱 I’m currently learning IaC and AWS services
 - 😄 Pronouns: Ela/Dela
 
