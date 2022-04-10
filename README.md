@@ -27,9 +27,7 @@
  	<a href="https://www.twitch.tv/neblizzz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/550174438877036544" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriela-campos07/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-    
-![Gabs-Gif](https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gIODGWDBuG5AWlUExJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ">via GIPHY</a></p>
     
 ![Snake animation](https://github.com/gabrielabit/gabrielabit/blob/output/github-contribution-grid-snake.svg)
  
