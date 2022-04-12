@@ -1,4 +1,4 @@
-## I'm Gabs!
+## Hi, I'm Gabs!
 
 - 🔭 I’m currently working on Cloud Computer
 - 🌱 I’m currently learning IaC and AWS services
